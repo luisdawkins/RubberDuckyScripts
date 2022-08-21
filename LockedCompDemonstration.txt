@@ -1,4 +1,4 @@
-REM This script justs types the biospassword for a device
+REM This script types "biospassword" then enter
 DELAY 1000
 STRING biospassword
 DELAY 100
