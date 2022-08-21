@@ -1,0 +1,5 @@
+REM This script justs types the biospassword for a device
+DELAY 1000
+STRING biospassword
+DELAY 100
+ENTER
