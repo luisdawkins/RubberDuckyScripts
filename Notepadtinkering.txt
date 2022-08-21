@@ -1,6 +1,4 @@
-REM Script 1:
-REM =========
-REM ~~ | Open Notepad and write something:
+REM Open Notepad and write something:
 DELAY 1000
 GUI r
 DELAY 100
