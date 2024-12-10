@@ -1,8 +1,8 @@
 REM Fake Update Script
-DELAY 100
+DELAY 1000
 GUI r
-DELAY 100
+DELAY 1000
 STRING https://fakeupdate.net/win10ue/
 ENTER
-DELAY 100
+DELAY 1000
 F11
